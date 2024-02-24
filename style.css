@@ -9,5 +9,6 @@
 .card:hover {
     box-shadow: 10px 5px 5px black;
     transition-duration: 2s;
-    margin-left: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
 }
